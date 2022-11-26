@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 breadcrumb:
 title: Title TBD About Loss Landscapes
 ---
