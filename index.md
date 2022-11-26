@@ -1,6 +1,8 @@
 ---
 layout: page
 breadcrumb:
+title: Title TBD About Loss Landscapes
 ---
-# Test
-I want this to be the front page
+## This is a place holder
+
+Our project is here, coming soon!
