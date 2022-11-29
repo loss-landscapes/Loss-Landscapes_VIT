@@ -1,10 +1,9 @@
 ---
 layout: post
 breadcrumb:
-title: Loss Landscapes and You: One Quick Trick to Improve Generalizability
+title: Loss Landscapes and You; One Quick Trick to Improve Generalizability
 ---
-
-Jacob Hansen and Christian Cmehil-War 
+Jacob Hansen and Christian Cmehil-Warn
 
 ## Why Care about Loss?
 
