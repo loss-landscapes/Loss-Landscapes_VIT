@@ -1,8 +1,17 @@
 ---
 layout: post
 breadcrumb:
-title: Title TBD About Loss Landscapes
+title: Loss Landscapes and You: One Quick Trick to Improve Generalizability
 ---
-## This is a place holder
+## Why Care about Loss?
 
-Our project is here, coming soon!
+
+## Loss vs Accuracy
+
+
+
+## Exploring the Loss Landscape
+
+
+## Optimizers: Terraforming Loss Landscapes
+
